@@ -98,5 +98,7 @@ void display() {
 
 	}
 
+	cout << "\n\nNumber of comparasions: " << cmp_count << endl;
+	cout << "Number pf data movements: " << mov_count << endl;
 
 }
