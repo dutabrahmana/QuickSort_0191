@@ -7,7 +7,7 @@ int cmp_count = 0;
 int mov_count = 0;
 int n;
 
-void input () {
+void input() {
 	while (true) {
 
 		cout << "Masukan banyaknya elemen pada array: ";
@@ -30,3 +30,9 @@ void input () {
 		cout << "<" << (i + 1) << ">";
 		cin >> arr[i];
 	}
+}
+
+void swap(int x, int y)
+{
+
+}
